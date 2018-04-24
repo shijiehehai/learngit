@@ -1,1 +1,2 @@
-php is the best languqge!
+php is the best language!
+python is the best language!
